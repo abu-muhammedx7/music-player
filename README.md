@@ -31,5 +31,5 @@ A modern music player application built with PyQt5 for the GUI and Pygame for re
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/abu-muhammedx7/pyqt5-music-player.git
+git clone https://github.com/abu-muhammedx7/music-player.git
 cd music-player
