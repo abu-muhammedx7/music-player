@@ -33,3 +33,5 @@ A modern music player application built with PyQt5 for the GUI and Pygame for re
 ```bash
 git clone https://github.com/abu-muhammedx7/music-player.git
 cd music-player
+pip install -r requirements.txt
+python main.py
