@@ -1,15 +1,13 @@
-# music-player
-A simple and elegant music player built using Python and PyQt5.
+# Music Player
 
-# PyQt5 Music Player with Pygame
+A modern, simple, and elegant music player built using Python and PyQt5 for the GUI, with optional use of Pygame for audio playback.
 
 ![Python](https://img.shields.io/badge/python-3.7+-blue.svg)
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
 
-A modern music player application built with PyQt5 for the GUI and Pygame for reliable audio playback.
-
 ![Music Player Screenshot](screenshots/player-screenshot.png)
 ![Music Player Screenshot](screenshots/player-screenshot2.png)
+
 ## Features
 
 🎵 **Playback Controls**
@@ -30,6 +28,7 @@ A modern music player application built with PyQt5 for the GUI and Pygame for re
 ## Installation
 
 1. Clone the repository:
+
 ```bash
 git clone https://github.com/abu-muhammedx7/music-player.git
 cd music-player
