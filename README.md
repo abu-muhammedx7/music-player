@@ -28,7 +28,6 @@ A modern, simple, and elegant music player built using Python and PyQt5 for the 
 ## Installation
 
 1. Clone the repository:
-
 ```bash
 git clone https://github.com/abu-muhammedx7/music-player.git
 cd music-player
